@@ -1,10 +1,24 @@
 # Titanic_Survival_Prediction
 
 **Overview**
-This project predicts the survival of Titanic passengers based on their features such as age, gender, and class. The model is built using machine learning techniques.
+Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
+
+The most famous competition over the kaggle . In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their Machine Learning Journey. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
+
+**Dependencies:**
+Python3
+Numpy
+Pandas
+Matplotlib
+Supervised Learning
+Machine Learning Algorithm
+Classification Algorithms
 
 **Installation**
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/Titanic_Survival_Prediction.git
-cd Titanic_Survival_Prediction
+       git clone https://github.com/yourusername/Titanic_Survival_Prediction.git
+        cd Titanic_Survival_Prediction
+
+
+
